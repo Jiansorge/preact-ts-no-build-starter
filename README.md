@@ -9,8 +9,3 @@ A very simple starter for small js apps, no build step required.
 ### Development tips:
  - `npx servor --browse --reload` will launch a hot-reloading local [servor](https://github.com/lukejacksonn/servor).
  - VSCode has nice auto-formatting.
-
----
-
-
-Inspired by [this](https://formidable.com/blog/2019/no-build-step/) article.
